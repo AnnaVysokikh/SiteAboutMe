@@ -1,0 +1,48 @@
+* {
+    background-color: gainsboro;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.subtitle {
+    font-family: 'Noto Serif', 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-family: 'Noto Serif', 'Times New Roman', Times, serif;
+}
+
+.list {
+    display: flex;
+    list-style-type: none;
+}
+
+.link {
+    padding: 10px;
+}
+
+img {
+    border: 1px solid dimgray;
+}
+
+.myphoto {
+    text-align: center;    
+}
+
+.subtitle {
+    border-left: 3px solid dimgray;
+    padding-left: 10px;
+    margin: 2px;
+}
+
+a {
+    color:black
+}
+
+a:hover {
+    color:brown
+}
